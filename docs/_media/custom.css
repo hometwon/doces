@@ -1,0 +1,16 @@
+section.cover .cover-main{
+  z-index: 100;
+}
+section.cover.has-mask .mask{
+  background-color: #ffffff;
+  opacity: .1 !important;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  left: 0;
+}
+section.cover h1 .anchor span{
+  font-family: 'Lobster',cursive;
+  color: var(--theme-color);
+}
