@@ -5,4 +5,4 @@
 [<i class="iconfont icon-github"></i> GitHub](https://github.com/hometwon/blog)
 [马上开始 <i class="iconfont icon-down"></i>](index.md)
 
-![](https://jy-club.oss-cn-shanghai.aliyuncs.com/sxl/images/timg.jfif)
+![](https://jy-club.oss-cn-shanghai.aliyuncs.com/sxl/images/ti.jpg)
